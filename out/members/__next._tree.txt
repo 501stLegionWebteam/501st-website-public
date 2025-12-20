@@ -7,4 +7,4 @@
 :HL["/background-trooper-of-the-month.jpg","image"]
 :HL["/background-honorary-members.jpg","image"]
 :HL["/background-eternal-legionnaires.jpg","image"]
-0:{"buildId":"TSR7vr5LrA-77oCMwkAi8","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"members","paramType":null,"paramKey":"members","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"DZnD9-jkTZLOMm7MTGagw","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"members","paramType":null,"paramKey":"members","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
