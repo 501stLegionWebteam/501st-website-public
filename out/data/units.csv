@@ -3,7 +3,7 @@ ID,Name,Type,Area,Website URL,Logo URL,Logo URL (Small),Officer Count
 2,Alpine Garrison,Garrison,"Utah, (United States)",UT501st.com,https://www.501st.com/images/logos/125px/Alpine-Garrison.png,https://www.501st.com/images/logos/62px/Alpine-Garrison.png,18
 4,Brazil: Brazilian Division Garrison,Garrison,South Region and the State of São Paulo,www.legiao501.com.br/,https://www.501st.com/images/logos/125px/Brazilian-Division.png,https://www.501st.com/images/logos/62px/Brazilian-Division.png,7
 5,Canada: Canadian Garrison,Garrison,"Canada, Ontario (except the portion under Capital City Garrison)",www.501st.ca,https://www.501st.com/images/logos/125px/Canadian-Garrison.png,https://www.501st.com/images/logos/62px/Canadian-Garrison.png,18
-6,Central Garrison,Garrison,North Dakota; South Dakota; Nebraska; Iowa (United States),www.centralgarrison.com/,https://www.501st.com/images/logos/125px/Central-Garrison.png,https://www.501st.com/images/logos/62px/Central-Garrison.png,10
+6,Central Garrison,Garrison,North Dakota; South Dakota; Nebraska; (United States),www.centralgarrison.com/,https://www.501st.com/images/logos/125px/Central-Garrison.png,https://www.501st.com/images/logos/62px/Central-Garrison.png,10
 7,Dune Sea Garrison,Garrison,Arizona (United States),www.duneseagarrison.com,https://www.501st.com/images/logos/125px/Dune-Sea-Garrison.png,https://www.501st.com/images/logos/62px/Dune-Sea-Garrison.png,22
 8,New York: Empire City Garrison,Garrison,"New York City, the 5 Boroughs, Long Island, the Lower and Mid-Hudson Regions",www.empirecitygarrison.com,https://www.501st.com/images/logos/125px/Empire-City-Garrison.png,https://www.501st.com/images/logos/62px/Empire-City-Garrison.png,24
 9,Florida Garrison,Garrison,Florida (United States),www.fl501st.com,https://www.501st.com/images/logos/125px/Florida-Garrison.png,https://www.501st.com/images/logos/62px/Florida-Garrison.png,19
@@ -103,7 +103,7 @@ ID,Name,Type,Area,Website URL,Logo URL,Logo URL (Small),Officer Count
 119,Colombia Garrison,Garrison,"Colombia, South America",501st.com.co,https://www.501st.com/images/logos/125px/Colombia-Garrison.png,https://www.501st.com/images/logos/62px/Colombia-Garrison.png,11
 120,Garrison Corellia,Garrison,West Virginia,garrisoncorellia.com/,https://www.501st.com/images/logos/125px/Garrison-Corellia.png,https://www.501st.com/images/logos/62px/Garrison-Corellia.png,10
 122,Uruguay Outpost,Outpost,Uruguay,www.501st.com.uy/,https://www.501st.com/images/logos/125px/Uruguay-Outpost.png,https://www.501st.com/images/logos/62px/Uruguay-Outpost.png,1
-123,Ukraine Outpost,Outpost,Ukraine,501stlegion.com.ua/,https://www.501st.com/images/logos/125px/Ukraine-Outpost.png,https://www.501st.com/images/logos/62px/Ukraine-Outpost.png,2
+123,Ukraine Outpost,Outpost,Ukraine,501stlegion.com.ua/,https://www.501st.com/images/logos/125px/Ukraine-Outpost.png,https://www.501st.com/images/logos/62px/Ukraine-Outpost.png,1
 124,Danish Garrison,Garrison,Denmark,www.danishgarrison.dk,https://www.501st.com/images/logos/125px/Danish-Garrison.png,https://www.501st.com/images/logos/62px/Danish-Garrison.png,15
 125,Arctic Outpost,Outpost,Nunavut,www.arcticoutpost.ca/,https://www.501st.com/images/logos/125px/Arctic-Outpost.png,https://www.501st.com/images/logos/62px/Arctic-Outpost.png,1
 126,Canada: Forteresse Imperiale Garrison,Garrison,"Province of Quebec, Canada",501stqc.ca,https://www.501st.com/images/logos/125px/Forteresse-Imperiale.png,https://www.501st.com/images/logos/62px/Forteresse-Imperiale.png,20
