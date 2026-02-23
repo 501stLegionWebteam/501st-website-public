@@ -11,13 +11,13 @@ ID,Name,Type,Area,Website URL,Logo URL,Logo URL (Small),Officer Count
 11,German Garrison,Garrison,Germany,www.501st.de,https://www.501st.com/images/logos/125px/German-Garrison.png,https://www.501st.com/images/logos/62px/German-Garrison.png,28
 12,Japanese Garrison,Garrison,Japan,www.501st.jp,https://www.501st.com/images/logos/125px/Japanese-Garrison.png,https://www.501st.com/images/logos/62px/Japanese-Garrison.png,22
 13,Midwest Garrison,Garrison,Illinois (United States),www.midwestgarrison.com,https://www.501st.com/images/logos/125px/Midwest-Garrison.png,https://www.501st.com/images/logos/62px/Midwest-Garrison.png,28
-14,Mountain Garrison,Garrison,Colorado and Wyoming (United States),www.mg501.com,https://www.501st.com/images/logos/125px/Mountain-Garrison.png,https://www.501st.com/images/logos/62px/Mountain-Garrison.png,20
+14,Mountain Garrison,Garrison,Colorado and Wyoming (United States),www.mg501.com,https://www.501st.com/images/logos/125px/Mountain-Garrison.png,https://www.501st.com/images/logos/62px/Mountain-Garrison.png,19
 15,Neon City Garrison,Garrison,Nevada (United States),www.theneoncitygarrison.com,https://www.501st.com/images/logos/125px/Neon-City-Garrison.png,https://www.501st.com/images/logos/62px/Neon-City-Garrison.png,12
 16,New England Garrison,Garrison,"Massachusetts, New Hampshire, Vermont, Maine, Rhode Island (United States)",www.501neg.com,https://www.501st.com/images/logos/125px/New-England-Garrison.png,https://www.501st.com/images/logos/62px/New-England-Garrison.png,34
 17,Norwegian Garrison,Garrison,Norway,www.norwegiangarrison.no,https://www.501st.com/images/logos/125px/Norwegian-Garrison.png,https://www.501st.com/images/logos/62px/Norwegian-Garrison.png,9
 18,California: Golden Gate Garrison,Garrison,Northern California (United States),501stGGG.com,https://www.501st.com/images/logos/125px/Golden-Gate-Garrison.png,https://www.501st.com/images/logos/62px/Golden-Gate-Garrison.png,30
 19,California: Southern California Garrison,Garrison,Southern California (United States),southerncaliforniagarrison.com/,https://www.501st.com/images/logos/125px/Southern-California-Garrison.png,https://www.501st.com/images/logos/62px/Southern-California-Garrison.png,12
-21,Star Garrison,Garrison,Texas,www.stargarrison.com,https://www.501st.com/images/logos/125px/Star-Garrison.png,https://www.501st.com/images/logos/62px/Star-Garrison.png,29
+21,Star Garrison,Garrison,Texas,www.stargarrison.com,https://www.501st.com/images/logos/125px/Star-Garrison.png,https://www.501st.com/images/logos/62px/Star-Garrison.png,21
 22,Swiss Garrison,Garrison,Switzerland,www.swiss-garrison.ch/,https://www.501st.com/images/logos/125px/Swiss-Garrison.png,https://www.501st.com/images/logos/62px/Swiss-Garrison.png,20
 23,Garrison Titan,Garrison,Washington (state) (United States),www.garrisontitan.com,https://www.501st.com/images/logos/125px/Garrison-Titan.png,https://www.501st.com/images/logos/62px/Garrison-Titan.png,21
 24,UK Garrison,Garrison,United Kingdom,www.ukgarrison.co.uk,https://www.501st.com/images/logos/125px/UK-Garrison.png,https://www.501st.com/images/logos/62px/UK-Garrison.png,22
@@ -59,7 +59,7 @@ ID,Name,Type,Area,Website URL,Logo URL,Logo URL (Small),Officer Count
 60,Belgium: FanWars Garrison,Garrison,South Belgium,www.fanwars.be,https://www.501st.com/images/logos/125px/Fanswars-Garrison.png,https://www.501st.com/images/logos/62px/Fanswars-Garrison.png,12
 61,Alaskan Garrison,Garrison,Alaska (United States),www.ak501st.com,https://www.501st.com/images/logos/125px/Alaskan-Garrison.png,https://www.501st.com/images/logos/62px/Alaskan-Garrison.png,9
 62,Austrian Garrison,Garrison,Austria,501st-austria.com,https://www.501st.com/images/logos/125px/Austrian-Garrison.png,https://www.501st.com/images/logos/62px/Austrian-Garrison.png,15
-63,New York: Garrison Excelsior,Garrison,Upstate New York (United States),www.garrisonexcelsior.com,https://www.501st.com/images/logos/125px/Garrison-Excelsior.png,https://www.501st.com/images/logos/62px/Garrison-Excelsior.png,18
+63,New York: Garrison Excelsior,Garrison,Upstate New York (United States),www.garrisonexcelsior.com,https://www.501st.com/images/logos/125px/Garrison-Excelsior.png,https://www.501st.com/images/logos/62px/Garrison-Excelsior.png,17
 64,Taiwan Garrison,Garrison,Taiwan ,www.501tw.com,https://www.501st.com/images/logos/125px/Taiwan-Garrison.png,https://www.501st.com/images/logos/62px/Taiwan-Garrison.png,14
 65,Cloud City Garrison,Garrison,"Oregon; Vancouver, WA (USA)",cloudcitygarrison.com,https://www.501st.com/images/logos/125px/Cloud-City-Garrison.png,https://www.501st.com/images/logos/62px/Cloud-City-Garrison.png,22
 66,Hong Kong Garrison,Garrison,Hong Kong,www.hk501st.com,https://www.501st.com/images/logos/125px/Hong-Kong-Garrison.png,https://www.501st.com/images/logos/62px/Hong-Kong-Garrison.png,15
@@ -67,7 +67,7 @@ ID,Name,Type,Area,Website URL,Logo URL,Logo URL (Small),Officer Count
 68,Costa Rica Garrison,Garrison,Costa Rica,www.501stcr.com,https://www.501st.com/images/logos/125px/Costa-Rica-Garrison.png,https://www.501st.com/images/logos/62px/Costa-Rica-Garrison.png,14
 69,Alabama Garrison,Garrison,Alabama (United States),al501st.net,https://www.501st.com/images/logos/125px/Alabama-Garrison.png,https://www.501st.com/images/logos/62px/Alabama-Garrison.png,13
 70,Portuguese Garrison,Garrison,Portugal,www.legiao501.pt,https://www.501st.com/images/logos/125px/Portuguese-Garrison.png,https://www.501st.com/images/logos/62px/Portuguese-Garrison.png,13
-71,Great Lakes Garrison,Garrison,Michigan,www.greatlakesgarrison.com,https://www.501st.com/images/logos/125px/Great-Lakes-Garrison.png,https://www.501st.com/images/logos/62px/Great-Lakes-Garrison.png,16
+71,Great Lakes Garrison,Garrison,Michigan,www.greatlakesgarrison.com,https://www.501st.com/images/logos/125px/Great-Lakes-Garrison.png,https://www.501st.com/images/logos/62px/Great-Lakes-Garrison.png,17
 72,Bolivian Outpost,Outpost,Bolivia,www.501stbolivia.com,https://www.501st.com/images/logos/125px/Bolivian-Outpost.png,https://www.501st.com/images/logos/62px/Bolivian-Outpost.png,7
 73,Rancor Raiders Garrison,Garrison,Mississippi (United States),www.ms501st.net,https://www.501st.com/images/logos/125px/Rancor-Raiders-Garrison.png,https://www.501st.com/images/logos/62px/Rancor-Raiders-Garrison.png,22
 74,Turkish Outpost,Outpost,Turkey,www.lejyon501.com,https://www.501st.com/images/logos/125px/Turkish-Outpost.png,https://www.501st.com/images/logos/62px/Turkish-Outpost.png,9
@@ -87,7 +87,7 @@ ID,Name,Type,Area,Website URL,Logo URL,Logo URL (Small),Officer Count
 91,Macau Outpost ,Outpost,Macau S.A.R (Special Administrative Region),www.501stmacau.com/,https://www.501st.com/images/logos/125px/Macau-Outpost.png,https://www.501st.com/images/logos/62px/Macau-Outpost.png,4
 92,Russian Outpost,Outpost,Russian Federation ,501st.ru/,https://www.501st.com/images/logos/125px/Russian-Outpost.png,https://www.501st.com/images/logos/62px/Russian-Outpost.png,4
 93,Garrison 66: The Temple Raiders ,Garrison,"Southwest Missouri � Vernon, Barton, Jasper, Newton, Mcdonald, Cedar, Dade, Lawrence, Barry, Po",www.garrison66.com,https://www.501st.com/images/logos/125px/Garrison-66.png,https://www.501st.com/images/logos/62px/Garrison-66.png,10
-96,Northern Darkness Garrison ,Garrison,Northern Indiana (United States),www.NorthernDarknessGarrison.com,https://www.501st.com/images/logos/125px/Northern-Darkness-Garrison.png,https://www.501st.com/images/logos/62px/Northern-Darkness-Garrison.png,17
+96,Northern Darkness Garrison ,Garrison,Northern Indiana (United States),www.NorthernDarknessGarrison.com,https://www.501st.com/images/logos/125px/Northern-Darkness-Garrison.png,https://www.501st.com/images/logos/62px/Northern-Darkness-Garrison.png,16
 97,Chinese Garrison,Garrison,China,www.cn501st.com/bbs,https://www.501st.com/images/logos/125px/Chinese-Garrison.png,https://www.501st.com/images/logos/62px/Chinese-Garrison.png,15
 98,Ireland Garrison,Garrison,The republic of Ireland ,www.501st.ie,https://www.501st.com/images/logos/125px/Ireland-Garrison.png,https://www.501st.com/images/logos/62px/Ireland-Garrison.png,15
 99,Skull Garrison,Garrison,"Mexico: Michoacán, Coahuila, Nuevo Leon, Tamaulipas, San Luis, Guanajuato, Queretaro ",www.skullgarrison.com/,https://www.501st.com/images/logos/125px/Skull-Garrison.png,https://www.501st.com/images/logos/62px/Skull-Garrison.png,10
@@ -139,7 +139,7 @@ ID,Name,Type,Area,Website URL,Logo URL,Logo URL (Small),Officer Count
 159,Minnesota WolfPack Garrison,Garrison,US State Of Minnesota,wolfpackgarrison.com/,https://www.501st.com/images/logos/125px/Minnesota-Garrison.png,https://www.501st.com/images/logos/62px/Minnesota-Garrison.png,16
 160,Utila Outpost,Outpost,"BAY ISLANDS, HONDURAS",,https://www.501st.com/images/logos/125px/Utila-Outpost.png,https://www.501st.com/images/logos/62px/Utila-Outpost.png,4
 161,Hawkbat Garrison,Garrison,Iowa,www.hawkbatgarrison.com,https://www.501st.com/images/logos/125px/Hawkbat-Garrison.png,https://www.501st.com/images/logos/62px/Hawkbat-Garrison.png,15
-162,Crimson Garrison,Garrison,"Veracruz, Puebla and Tlaxcala",crimsongarrison.com.mx/,https://www.501st.com/images/logos/125px/Crimson-Garrison.png,https://www.501st.com/images/logos/62px/Crimson-Garrison.png,11
+162,Crimson Garrison,Garrison,"Veracruz, Puebla and Tlaxcala",crimsongarrison.com.mx/,https://www.501st.com/images/logos/125px/Crimson-Garrison.png,https://www.501st.com/images/logos/62px/Crimson-Garrison.png,13
 163,Battle Born Outpost,Outpost,"US State of Nevada County lines. Washo, Story, Churchhill, Lyon, Carson City, and Douglas ",,https://www.501st.com/images/logos/125px/Battle-Born-Outpost.png,https://www.501st.com/images/logos/62px/Battle-Born-Outpost.png,3
 164,Zabrak Garrison,Garrison,"Territorios de Colombia: Tolima, Risaralda, Quindio y Antioquia",zabrakgarrison.com.co,https://www.501st.com/images/logos/125px/imgur.com/a/zabrak-garrison-logo-2bpczMP.png,https://www.501st.com/images/logos/62px/imgur.com/a/zabrak-garrison-logo-2bpczMP.png,6
 165,Pacific Thunder Garrison,Garrison,"Nariño, Valle del Cauca, Cauca, Chocó",pacificthundergarrison.com/,https://www.501st.com/images/logos/125px/imgur.com/a/vvGUNSE.png,https://www.501st.com/images/logos/62px/imgur.com/a/vvGUNSE.png,9
