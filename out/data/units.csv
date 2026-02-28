@@ -37,9 +37,9 @@ ID,Name,Type,Area,Website URL,Logo URL,Logo URL (Small),Officer Count
 39,Carolina Garrison,Garrison,North and South Carolina (United States),carolinagarrison.org,https://www.501st.com/images/logos/125px/Carolina-Garrison.png,https://www.501st.com/images/logos/62px/Carolina-Garrison.png,27
 40,Garrison Tyranus,Garrison,Virginia (United States),www.garrisontyranus.com,https://www.501st.com/images/logos/125px/Garrison-Tyranus.png,https://www.501st.com/images/logos/62px/Garrison-Tyranus.png,15
 41,Israel Outpost,Outpost,Israel,www.facebook.com/israel501st/,https://www.501st.com/images/logos/125px/Israel-Outpost.png,https://www.501st.com/images/logos/62px/Israel-Outpost.png,8
-42,Singapore Garrison,Garrison,Singapore,www.501st.sg,https://www.501st.com/images/logos/125px/Singapore-Garrison.png,https://www.501st.com/images/logos/62px/Singapore-Garrison.png,18
+42,Singapore Garrison,Garrison,Singapore,www.501st.sg,https://www.501st.com/images/logos/125px/Singapore-Garrison.png,https://www.501st.com/images/logos/62px/Singapore-Garrison.png,21
 43,Midsouth Garrison,Garrison,Tennessee (United States),www.midsouthgarrison.com,https://www.501st.com/images/logos/125px/Midsouth-Garrison.png,https://www.501st.com/images/logos/62px/Midsouth-Garrison.png,14
-44,French Garrison,Garrison,France,501stfrenchgarrison.com,https://www.501st.com/images/logos/125px/French-Garrison.png,https://www.501st.com/images/logos/62px/French-Garrison.png,39
+44,French Garrison,Garrison,France,501stfrenchgarrison.com,https://www.501st.com/images/logos/125px/French-Garrison.png,https://www.501st.com/images/logos/62px/French-Garrison.png,38
 45,Croatian Outpost,Outpost,Croatia,www.facebook.com/501stCroatia,https://www.501st.com/images/logos/125px/Croatian-Outpost.png,https://www.501st.com/images/logos/62px/Croatian-Outpost.png,1
 46,Romanian Outpost,Outpost,Romania,,https://www.501st.com/images/logos/125px/Romanian-Outpost.png,https://www.501st.com/images/logos/62px/Romanian-Outpost.png,8
 47,Mexican Garrison,Garrison,"Mexico: BC, BCS, CDMX, MEX, MOR, HGO, PUE, SON, SIN, TLX, VER",www.501st.com.mx,https://www.501st.com/images/logos/125px/Mexican-Garrison.png,https://www.501st.com/images/logos/62px/Mexican-Garrison.png,15
@@ -54,10 +54,10 @@ ID,Name,Type,Area,Website URL,Logo URL,Logo URL (Small),Officer Count
 56,Canada: Badlands Garrison,Garrison,"Alberta, Saskatchewan, Manitoba, Yukon and Northwest Territories",www.badlands.ca,https://www.501st.com/images/logos/125px/Badlands-Garrison.png,https://www.501st.com/images/logos/62px/Badlands-Garrison.png,25
 57,70th Explorers Garrison,Garrison,Missouri and Kansas (United States),www.70thexplorers.com,https://www.501st.com/images/logos/125px/70th-Explorers.png,https://www.501st.com/images/logos/62px/70th-Explorers.png,23
 58,Connecticut Garrison,Garrison,Connecticut (United States),www.ctg501.com,https://www.501st.com/images/logos/125px/Connecticut-Garrison.png,https://www.501st.com/images/logos/62px/Connecticut-Garrison.png,12
-59,Malaysia Garrison,Garrison,Malaysia,www.501stlegion.my,https://www.501st.com/images/logos/125px/Malaysia-Garrison.png,https://www.501st.com/images/logos/62px/Malaysia-Garrison.png,5
+59,Malaysia Garrison,Garrison,Malaysia,www.501stlegion.my,https://www.501st.com/images/logos/125px/Malaysia-Garrison.png,https://www.501st.com/images/logos/62px/Malaysia-Garrison.png,7
 60,Belgium: FanWars Garrison,Garrison,South Belgium,www.fanwars.be,https://www.501st.com/images/logos/125px/Fanswars-Garrison.png,https://www.501st.com/images/logos/62px/Fanswars-Garrison.png,13
 61,Alaskan Garrison,Garrison,Alaska (United States),www.ak501st.com,https://www.501st.com/images/logos/125px/Alaskan-Garrison.png,https://www.501st.com/images/logos/62px/Alaskan-Garrison.png,9
-62,Austrian Garrison,Garrison,Austria,501st-austria.com,https://www.501st.com/images/logos/125px/Austrian-Garrison.png,https://www.501st.com/images/logos/62px/Austrian-Garrison.png,15
+62,Austrian Garrison,Garrison,Austria,501st-austria.com,https://www.501st.com/images/logos/125px/Austrian-Garrison.png,https://www.501st.com/images/logos/62px/Austrian-Garrison.png,14
 63,New York: Garrison Excelsior,Garrison,Upstate New York (United States),www.garrisonexcelsior.com,https://www.501st.com/images/logos/125px/Garrison-Excelsior.png,https://www.501st.com/images/logos/62px/Garrison-Excelsior.png,17
 64,Taiwan Garrison,Garrison,Taiwan ,www.501tw.com,https://www.501st.com/images/logos/125px/Taiwan-Garrison.png,https://www.501st.com/images/logos/62px/Taiwan-Garrison.png,19
 65,Cloud City Garrison,Garrison,"Oregon; Vancouver, WA (USA)",cloudcitygarrison.com,https://www.501st.com/images/logos/125px/Cloud-City-Garrison.png,https://www.501st.com/images/logos/62px/Cloud-City-Garrison.png,22
@@ -71,7 +71,7 @@ ID,Name,Type,Area,Website URL,Logo URL,Logo URL (Small),Officer Count
 73,Rancor Raiders Garrison,Garrison,Mississippi (United States),www.ms501st.net,https://www.501st.com/images/logos/125px/Rancor-Raiders-Garrison.png,https://www.501st.com/images/logos/62px/Rancor-Raiders-Garrison.png,20
 74,Turkish Outpost,Outpost,Turkey,www.lejyon501.com,https://www.501st.com/images/logos/125px/Turkish-Outpost.png,https://www.501st.com/images/logos/62px/Turkish-Outpost.png,9
 76,Outpost Venezuela,Outpost,Venezuela,www.cincocerouno.com,https://www.501st.com/images/logos/125px/Outpost-Venezuela.png,https://www.501st.com/images/logos/62px/Outpost-Venezuela.png,8
-77,Czech Garrison,Garrison,Czech Republic,www.501st.cz,https://www.501st.com/images/logos/125px/Czech-Garrison.png,https://www.501st.com/images/logos/62px/Czech-Garrison.png,7
+77,Czech Garrison,Garrison,Czech Republic,www.501st.cz,https://www.501st.com/images/logos/125px/Czech-Garrison.png,https://www.501st.com/images/logos/62px/Czech-Garrison.png,9
 78,Bast Alpha Garrison,Garrison,Louisiana (United States),la501st.com,https://www.501st.com/images/logos/125px/Bast-Alpha-Garrison.png,https://www.501st.com/images/logos/62px/Bast-Alpha-Garrison.png,15
 80,Southern Cross Garrison,Garrison,"New South Wales, ACT (Australia)",501scg.org,https://www.501st.com/images/logos/125px/Southern-Cross-Garrison.png,https://www.501st.com/images/logos/62px/Southern-Cross-Garrison.png,21
 81,Thailand Garrison,Garrison,Thailand,www.501thailand.com,https://www.501st.com/images/logos/125px/Thailand-Garrison.png,https://www.501st.com/images/logos/62px/Thailand-Garrison.png,12
@@ -79,7 +79,7 @@ ID,Name,Type,Area,Website URL,Logo URL,Logo URL (Small),Officer Count
 83,Timberline Garrison,Garrison,"Idaho and Montana, USA ",www.idaho501st.com,https://www.501st.com/images/logos/125px/Timberline-Garrison.png,https://www.501st.com/images/logos/62px/Timberline-Garrison.png,8
 84,Wisconsin Garrison,Garrison,"Wisconsin, (United States)",www.wigarrison.com ,https://www.501st.com/images/logos/125px/Wisconsin-Garrison.png,https://www.501st.com/images/logos/62px/Wisconsin-Garrison.png,18
 85,Canada: Capital City Garrison,Garrison,Eastern Ontario(Trenton to Petawawa to Quebec border),www.capitalcity501st.ca,https://www.501st.com/images/logos/125px/Capital-City-Garrison.png,https://www.501st.com/images/logos/62px/Capital-City-Garrison.png,10
-86,Dewback Ridge Garrison,Garrison,State of New Mexico,dewbackridge.org,https://www.501st.com/images/logos/125px/Dewback-Ridge-Garrison.png,https://www.501st.com/images/logos/62px/Dewback-Ridge-Garrison.png,20
+86,Dewback Ridge Garrison,Garrison,State of New Mexico,dewbackridge.org,https://www.501st.com/images/logos/125px/Dewback-Ridge-Garrison.png,https://www.501st.com/images/logos/62px/Dewback-Ridge-Garrison.png,18
 88,Ecuador Garrison,Garrison,Ecuador ,www.501st.ec,https://www.501st.com/images/logos/125px/Ecuador-Garrison.png,https://www.501st.com/images/logos/62px/Ecuador-Garrison.png,18
 89,Slovakia Outpost,Outpost,Slovak Republic ,www.501st.sk/,https://www.501st.com/images/logos/125px/Slovakia-Outpost.png,https://www.501st.com/images/logos/62px/Slovakia-Outpost.png,8
 90,Garrison Peru,Garrison,Peru,www.legion501peru.com,https://www.501st.com/images/logos/125px/Garrison-Peru.png,https://www.501st.com/images/logos/62px/Garrison-Peru.png,12
@@ -88,7 +88,7 @@ ID,Name,Type,Area,Website URL,Logo URL,Logo URL (Small),Officer Count
 93,Garrison 66: The Temple Raiders ,Garrison,"Southwest Missouri � Vernon, Barton, Jasper, Newton, Mcdonald, Cedar, Dade, Lawrence, Barry, Po",www.garrison66.com,https://www.501st.com/images/logos/125px/Garrison-66.png,https://www.501st.com/images/logos/62px/Garrison-66.png,10
 96,Northern Darkness Garrison ,Garrison,Northern Indiana (United States),www.NorthernDarknessGarrison.com,https://www.501st.com/images/logos/125px/Northern-Darkness-Garrison.png,https://www.501st.com/images/logos/62px/Northern-Darkness-Garrison.png,16
 97,Chinese Garrison,Garrison,China,www.cn501st.com/bbs,https://www.501st.com/images/logos/125px/Chinese-Garrison.png,https://www.501st.com/images/logos/62px/Chinese-Garrison.png,15
-98,Ireland Garrison,Garrison,The republic of Ireland ,www.501st.ie,https://www.501st.com/images/logos/125px/Ireland-Garrison.png,https://www.501st.com/images/logos/62px/Ireland-Garrison.png,14
+98,Ireland Garrison,Garrison,The republic of Ireland ,www.501st.ie,https://www.501st.com/images/logos/125px/Ireland-Garrison.png,https://www.501st.com/images/logos/62px/Ireland-Garrison.png,15
 99,Skull Garrison,Garrison,"Mexico: Michoacán, Coahuila, Nuevo Leon, Tamaulipas, San Luis, Guanajuato, Queretaro ",www.skullgarrison.com/,https://www.501st.com/images/logos/125px/Skull-Garrison.png,https://www.501st.com/images/logos/62px/Skull-Garrison.png,13
 100,Southern Dewback Garrison,Garrison,South Australia,www.501sdg.com ,https://www.501st.com/images/logos/125px/Southern-Dewback-Garrison.png,https://www.501st.com/images/logos/62px/Southern-Dewback-Garrison.png,16
 101,Brunei Outpost,Outpost,Brunei Darussalam ,501stbrunei.wordpress.com/ ,https://www.501st.com/images/logos/125px/Brunei-Outpost.png,https://www.501st.com/images/logos/62px/Brunei-Outpost.png,3
@@ -103,21 +103,21 @@ ID,Name,Type,Area,Website URL,Logo URL,Logo URL (Small),Officer Count
 120,Garrison Corellia,Garrison,West Virginia,garrisoncorellia.com/,https://www.501st.com/images/logos/125px/Garrison-Corellia.png,https://www.501st.com/images/logos/62px/Garrison-Corellia.png,14
 122,Uruguay Outpost,Outpost,Uruguay,www.501st.com.uy/,https://www.501st.com/images/logos/125px/Uruguay-Outpost.png,https://www.501st.com/images/logos/62px/Uruguay-Outpost.png,1
 123,Ukraine Outpost,Outpost,Ukraine,501stlegion.com.ua/,https://www.501st.com/images/logos/125px/Ukraine-Outpost.png,https://www.501st.com/images/logos/62px/Ukraine-Outpost.png,1
-124,Danish Garrison,Garrison,Denmark,www.danishgarrison.dk,https://www.501st.com/images/logos/125px/Danish-Garrison.png,https://www.501st.com/images/logos/62px/Danish-Garrison.png,15
+124,Danish Garrison,Garrison,Denmark,www.danishgarrison.dk,https://www.501st.com/images/logos/125px/Danish-Garrison.png,https://www.501st.com/images/logos/62px/Danish-Garrison.png,11
 125,Arctic Outpost,Outpost,Nunavut,www.arcticoutpost.ca/,https://www.501st.com/images/logos/125px/Arctic-Outpost.png,https://www.501st.com/images/logos/62px/Arctic-Outpost.png,1
 126,Canada: Forteresse Imperiale Garrison,Garrison,"Province of Quebec, Canada",501stqc.ca,https://www.501st.com/images/logos/125px/Forteresse-Imperiale.png,https://www.501st.com/images/logos/62px/Forteresse-Imperiale.png,23
 127,Oklahoma Garrison,Garrison,Oklahoma,www.ok501st.com/,https://www.501st.com/images/logos/125px/Oklahoma-Garrison.png,https://www.501st.com/images/logos/62px/Oklahoma-Garrison.png,21
 128,Knightfall Garrison,Garrison,Victoria Australia,WWW.501KFG.COM,https://www.501st.com/images/logos/125px/Knightfall-Garrison.png,https://www.501st.com/images/logos/62px/Knightfall-Garrison.png,16
 129,Desert Scorpion Garrison,Garrison,Western Australia,501stdsg.com/,https://www.501st.com/images/logos/125px/Desert-Scorpion-Garrison.png,https://www.501st.com/images/logos/62px/Desert-Scorpion-Garrison.png,15
 131,Garuda Garrison Indonesia,Garrison,Indonesia,www.501st.id,https://www.501st.com/images/logos/125px/Garuda-Garrison.png,https://www.501st.com/images/logos/62px/Garuda-Garrison.png,17
-132,Starkiller Garrison,Garrison,Western Pennsylvania ,www.starkillergarrison.com,https://www.501st.com/images/logos/125px/Starkiller-Garrison.png,https://www.501st.com/images/logos/62px/Starkiller-Garrison.png,23
+132,Starkiller Garrison,Garrison,Western Pennsylvania ,www.starkillergarrison.com,https://www.501st.com/images/logos/125px/Starkiller-Garrison.png,https://www.501st.com/images/logos/62px/Starkiller-Garrison.png,22
 134,Cyprus Outpost,Outpost,Republic of Cyprus,www.501cyprus.com/,https://www.501st.com/images/logos/125px/Cyprus-Outpost.png,https://www.501st.com/images/logos/62px/Cyprus-Outpost.png,1
-135,First State Garrison,Garrison,State of Delaware USA,firststategarrison.com,https://www.501st.com/images/logos/125px/First-State-Garrison.png,https://www.501st.com/images/logos/62px/First-State-Garrison.png,10
-136,Mayan Garrison,Garrison,"Mexico: Tabasco, Chiapas, Oaxaca, Guerrero, Campeche, Yuca",www.mayangarrison.com/,https://www.501st.com/images/logos/125px/Mayan-Garrison.png,https://www.501st.com/images/logos/62px/Mayan-Garrison.png,14
+135,First State Garrison,Garrison,State of Delaware USA,firststategarrison.com,https://www.501st.com/images/logos/125px/First-State-Garrison.png,https://www.501st.com/images/logos/62px/First-State-Garrison.png,9
+136,Mayan Garrison,Garrison,"Mexico: Tabasco, Chiapas, Oaxaca, Guerrero, Campeche, Yuca",www.mayangarrison.com/,https://www.501st.com/images/logos/125px/Mayan-Garrison.png,https://www.501st.com/images/logos/62px/Mayan-Garrison.png,15
 137,Rancor Hunters Garrison,Garrison,"Mexico: Jalisco, Colima, Nayarit, Durango, Zacatecas, Aguascalientes, Chihuahua",https://www.rancorhunters.com/,https://www.501st.com/images/logos/125px/Rancor-Hunters-Garrison.png,https://www.501st.com/images/logos/62px/Rancor-Hunters-Garrison.png,15
 138,Thylacine Outpost,Outpost,State of Tasmania (Australia),thylacineoutpost.com/,https://www.501st.com/images/logos/125px/Thylacine-Outpost.png,https://www.501st.com/images/logos/62px/Thylacine-Outpost.png,11
 139,Copperhead Outpost,Outpost,"North West, North East and South West Tasmania",www.501stcopperheadoutpost.com/,https://www.501st.com/images/logos/125px/Copperhead-Outpost.png,https://www.501st.com/images/logos/62px/Copperhead-Outpost.png,7
-140,Bluegrass Garrison,Garrison,Kentucky (United States),www.bluegrassgarrison.com/,https://www.501st.com/images/logos/125px/Bluegrass-Garrison.png,https://www.501st.com/images/logos/62px/Bluegrass-Garrison.png,10
+140,Bluegrass Garrison,Garrison,Kentucky (United States),www.bluegrassgarrison.com/,https://www.501st.com/images/logos/125px/Bluegrass-Garrison.png,https://www.501st.com/images/logos/62px/Bluegrass-Garrison.png,9
 141,Outpost Paraguay,Outpost,Paraguay,,https://www.501st.com/images/logos/125px/Outpost-Paraguay.png,https://www.501st.com/images/logos/62px/Outpost-Paraguay.png,9
 142,Hellenic Outpost,Outpost,Greece,501stgreece.eu,https://www.501st.com/images/logos/125px/Hellenic-Outpost.png,https://www.501st.com/images/logos/62px/Hellenic-Outpost.png,7
 143,Canada: Atlantic Garrison,Garrison,"Nova Scotia, New Brunswick, Prince Edward Island, Newfoundland",www.atlanticgarrison.com/,https://www.501st.com/images/logos/125px/Atlantic-Garrison.png,https://www.501st.com/images/logos/62px/Atlantic-Garrison.png,6
