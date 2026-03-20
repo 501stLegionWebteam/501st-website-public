@@ -1,0 +1,78 @@
+# Build static site from 501st-website source, deploy to GitHub Pages (no out/ in git).
+name: Build and deploy to GitHub Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 10 * * *" # 10:00 UTC — (2am Pacific)
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: website
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          repository: 501stLegionWebteam/501st-website
+          path: website
+          token: ${{ secrets.PRIVATE_SOURCE_REPO_GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - uses: pnpm/action-setup@v4
+        with:
+          run_install: false
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+          cache-dependency-path: website/pnpm-lock.yaml
+
+      - run: pnpm install
+
+      - name: Generate static data
+        run: |
+          pnpm tsx scripts/export-units.ts
+          pnpm tsx scripts/export-squads.ts
+          pnpm tsx scripts/export-units-with-squads.ts
+
+      - run: pnpm run build
+
+      - name: Setup 404.html for GitHub Pages
+        run: |
+          if [ -f "out/404/index.html" ]; then
+            cp "out/404/index.html" "out/404.html"
+            echo "✅ Created 404.html at root level"
+          else
+            echo "❌ 404/index.html not found in out directory"
+            exit 1
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: website/out
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

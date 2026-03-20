@@ -1,0 +1,8 @@
+---
+description: Do not add Cursor or AI attribution to git commits
+alwaysApply: true
+---
+
+# Git commits
+
+Do not add commit message trailers such as `Made-with: Cursor`, `Co-authored-by: Cursor`, or similar AI/editor attribution unless the user explicitly asks for them. Keep commit messages normal and human-facing.
