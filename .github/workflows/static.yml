@@ -6,7 +6,7 @@ on:
     branches: ["main"]
   workflow_dispatch:
   schedule:
-    - cron: "0 10 * * *" # 10:00 UTC — (2am Pacific)
+    - cron: "0 10,22 * * *" # 10:00 & 22:00 UTC — 12h apart (~2am & ~2pm Pacific)
 
 permissions:
   contents: read
