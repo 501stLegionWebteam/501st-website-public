@@ -55,6 +55,9 @@ jobs:
           pnpm tsx scripts/export-units-with-squads.ts
 
       - run: pnpm run build
+        env:
+          # Public Cloudflare Turnstile site key for the event request form (not a secret).
+          NEXT_PUBLIC_TURNSTILE_SITE_KEY: ${{ vars.TURNSTILE_SITE_KEY }}
 
       - name: Setup 404.html for GitHub Pages
         run: |
