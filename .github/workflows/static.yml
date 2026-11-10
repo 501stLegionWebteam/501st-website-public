@@ -1,12 +1,11 @@
 # Build static site from 501st-website source, deploy to GitHub Pages (no out/ in git).
+# Pages skips a commit it has already deployed, so redeploy unchanged source with scheduled-redeploy.yml.
 name: Build and deploy to GitHub Pages
 
 on:
   push:
     branches: ["main"]
   workflow_dispatch:
-  schedule:
-    - cron: "0 10,22 * * *" # 10:00 & 22:00 UTC — 12h apart (~2am & ~2pm Pacific)
 
 permissions:
   contents: read
@@ -80,11 +79,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-  keepalive:
-    if: github.event_name == 'schedule'
-    runs-on: ubuntu-latest
-    permissions:
-      actions: write
-    steps:
-      - uses: liskin/gh-workflow-keepalive@v1

@@ -1,0 +1,35 @@
+# Pages skips a commit it has already deployed, so commit first. A GITHUB_TOKEN push can't trigger static.yml; a dispatch can.
+name: Scheduled redeploy
+
+on:
+  schedule:
+    - cron: "0 10,22 * * *" # 10:00 & 22:00 UTC — 12h apart (~2am & ~2pm Pacific)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: scheduled-redeploy
+  cancel-in-progress: false
+
+jobs:
+  redeploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Commit a fresh build version
+        run: |
+          date -u +%Y-%m-%dT%H:%M:%SZ > .last-scheduled-redeploy
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .last-scheduled-redeploy
+          git commit -m "Scheduled redeploy."
+          git push
+
+      - name: Deploy
+        run: gh workflow run static.yml --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}
